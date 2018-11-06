@@ -1,0 +1,3 @@
+client:
+  hello:
+    address: http://localhost:9090/soundon/ws/Hello
